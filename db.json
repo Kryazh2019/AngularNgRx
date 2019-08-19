@@ -1,0 +1,32 @@
+{
+  "cars": [
+    {
+      "id": 2,
+      "name": "Audi",
+      "date": "10.12.10",
+      "model": "A4",
+      "isSold": true
+    },
+    {
+      "name": "qwe",
+      "date": "19.08.19",
+      "model": "qwe",
+      "isSold": false,
+      "id": 3
+    },
+    {
+      "name": "qwe",
+      "date": "19.08.19",
+      "model": "qwe",
+      "isSold": false,
+      "id": 4
+    },
+    {
+      "name": "qweqwe",
+      "date": "19.08.19",
+      "model": "qweqwe",
+      "isSold": false,
+      "id": 5
+    }
+  ]
+}
